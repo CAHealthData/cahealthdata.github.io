@@ -146,3 +146,11 @@ i {
   padding-bottom: 50px;
   text-align: center;
 }
+
+.list-group .list-group-item .row-picture i, .list-group .list-group-item .row-action-primary i {
+  background: rgb(82, 101, 162);
+}
+
+.deliverables {
+  position: relative;
+}
